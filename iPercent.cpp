@@ -9,9 +9,12 @@ int main()
 cout<<"GOOD MORNING";
 <<<<<<< HEAD
 c=a+b;
+<<<<<<< HEAD
 =======
 c=a+b+d;
 >>>>>>> origin/master
 return 0;
 
+=======
+>>>>>>> 499b296e3dda98a9654e853c2295062aa26c6f9a
 }
